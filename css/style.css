@@ -80,6 +80,10 @@ p {
     color: #333;
 }
 
+.clr {
+    clear: both;
+}
+
 .lrg-heading {
     font-size: 40px;
     line-height: 1.3;
